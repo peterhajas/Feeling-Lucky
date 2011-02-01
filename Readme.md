@@ -8,6 +8,8 @@ by Peter Hajas
 
 Feeling Lucky is a simple project to let you do a reverse "I'm feeling lucky" search on your bash history. It'll search for the most recently used command of yours that included the search term, and run it.
 
+Pressing the up arrow is for squares.
+
 To use, simply chmod a+x the script, add it to your path (you'll want to, it's handy!) and use:
 
 lucky.py <cmdname>
@@ -30,3 +32,5 @@ dd
 mv
 
 and more! Be careful! Being lucky can be dangerous!
+
+This is 2-clause BSD licensed. More details in lucky.py. Have fun, be careful, and don't count on luck too much.
